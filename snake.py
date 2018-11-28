@@ -1,3 +1,5 @@
+# This code is taken from engineer man youtube channel. This create a snake game using pyhton
+
 import random
 import curses
 
