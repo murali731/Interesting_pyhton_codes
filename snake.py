@@ -1,4 +1,5 @@
-# This code is taken from engineer man youtube channel. This create a snake game using pyhton
+# This code is taken from engineer man youtube channel. This create a snake game using pyhton.
+# Currently not working need to see how to install curses.
 
 import random
 import curses
