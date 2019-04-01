@@ -1,1 +1,2 @@
-hi hello....how is git going
+hi hello....how is git going.
+hi hello there! how are you.
